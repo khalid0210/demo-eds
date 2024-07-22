@@ -197,6 +197,7 @@
         "label": "Image",
         "multi": false
       },
+      
       {
         "component": "richtext",
         "name": "text",

@@ -46,13 +46,15 @@
       "hero",
       "cards",
       "columns",
-      "carousel"
+      "carousel",
+      "carousels"
     ]
   },
   {
-    "id": "carousel",
+    "id": "carousels",
     "components": [
       "carousel"
+      
     ]
   }
 ]
