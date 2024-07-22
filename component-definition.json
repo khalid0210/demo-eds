@@ -135,6 +135,21 @@
               }
             }
           }
+        },
+        {
+          "title": "carousal",
+          "id": "carousal",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block/item",
+                "template": {
+                  "name": "carousal",
+                  "model": "carousal"
+                }
+              }
+            }
+          }
         }
       ]
     }
