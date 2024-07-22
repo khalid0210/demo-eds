@@ -193,11 +193,10 @@
       {
         "component": "reference",
         "valueType": "string",
-        "name": "fileReference",
+        "name": "image",
         "label": "Image",
-        "value":""
+        "multi": false
       },
-      
       {
         "component": "richtext",
         "name": "text",
@@ -206,6 +205,5 @@
         "valueType": "string"
       }
     ]
-  }
- 
+  } 
 ]
