@@ -48,5 +48,18 @@
       "columns",
       "carousal"
     ]
+  },
+  {
+    "id": "carousal",
+    "components": [
+      "text",
+      "image",
+      "button",
+      "title",
+      "hero",
+      "cards",
+      "columns",
+      "carousal"
+    ]
   }
 ]

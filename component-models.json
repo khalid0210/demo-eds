@@ -195,13 +195,13 @@
         "valueType": "string",
         "name": "fileReference",
         "label": "Image",
-        "multi": false
+        "value":""
       },
       {
         "component": "text",
         "valueType": "string",
         "name": "alt",
-        "value": "Default alt",
+        "value": "",
         "label": "Alt Text"
       },
       {
